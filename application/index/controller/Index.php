@@ -35,6 +35,7 @@ class Index
         $res = Cache::get('listtest');
 
         dump($res);
+		echo  'lalalalal';
     }
 
 }
